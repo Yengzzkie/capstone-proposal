@@ -59,6 +59,7 @@ User can be one or both:
 - Home page
 - List of Posts
 - Post description
+- Create post
 - Register
 - Login
 
